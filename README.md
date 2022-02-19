@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edithaiyede
-- 👀 I’m interested in Tech
+- 👀 I’m interested in Technology Advancement
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on any growth propects
 - 📫 How to reach me: +2348067665855
